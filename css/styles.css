@@ -5,16 +5,23 @@
 
 /* Styles for the body */
 
+
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+    font-family: Lato, "Open Sans", Roboto, 'alex-brush'"Helvetica Neue", Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"sans-serif,;
+    color: #262690;
+    background-color: #B7BED1;
+  
+    font-style: normal;
+    font-weight: 400;		
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    
+	background-color: #ED6A9A;
+	color: white
+    
 }
 
 .resume-main {
@@ -22,7 +29,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #FFACDB;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +43,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #F0548C;
 }
 
 .biography-details li, .skill-list li {
