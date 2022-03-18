@@ -10,9 +10,11 @@ body {
     font-family: Lato, "Open Sans", Roboto, 'alex-brush'"Helvetica Neue", Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"sans-serif,;
     color: #262690;
     background-color: #B7BED1;
+	font-style: normal;
+	font-weight: 400;
+font: "alex-brush"
   
-    font-style: normal;
-    font-weight: 400;		
+   		
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
