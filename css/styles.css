@@ -13,9 +13,17 @@ body {
 	font-style: normal;
 	font-weight: 400;
 font: "alex-brush"
+	
   
    		
 }
+
+body {
+  font-family: var(--bs-font-monospace);
+  body-line-height: 1.4;
+  color: #262690;
+}
+
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
